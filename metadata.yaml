@@ -1,5 +1,8 @@
 _repo: Borderland-b-a-country-town-chronicle_75051
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75051-h/images/cover.jpg
 creator:
   author:
     agent_name: Fothergill, Jessie
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33771
     wikipedia: https://en.wikipedia.org/wiki/Jessie_Fothergill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75051#Borderland-b-a-country-town-chronicle
 gutenberg_issued: '2025-01-06'
 gutenberg_type: Text
 identifiers:
